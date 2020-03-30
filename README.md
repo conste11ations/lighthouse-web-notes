@@ -2,4 +2,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Rachel for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Rachel](https://github.com/conste11ations) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
